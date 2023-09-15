@@ -1,1 +1,1 @@
-![Triassic pinball](https://raw.githubusercontent.com/xanderlmk/triassic_pinball/main/trassic_pinball.png)
+![Triassic pinball](https://raw.githubusercontent.com/xanderlmk/triassic_pinball/main/triassic_pinball.png)
